@@ -21,6 +21,7 @@ Most open-source vocabulary lists only provide a word and a simple definition. T
 * `toefl_essential_vocabulary.txt`: Plain word list (Best for quick array imports).
 
 ## 💻 Sample Data (JSON)
+
 ```json
 {
   "word": "proliferation",
@@ -31,45 +32,8 @@ Most open-source vocabulary lists only provide a word and a simple definition. T
   "definition_en": "Rapid increase in numbers.",
   "example_sentence": "The proliferation of invasive plant species severely threatens the delicate balance of the local ecosystem."
 }
+```
 
-GitHub ve Kaggle için hazırladığımız, linkleri düzeltilmiş ve içinde bulunmayan (collocations gibi) ifadelerden arındırılmış tam ve eksiksiz README.md içeriği aşağıdadır.
-
-JSON kod bloğunun kapatma işaretleri (```) eklenmiştir. Bu metni olduğu gibi kopyalayıp ilgili platformlara yapıştırabilirsiniz.
-
-Markdown
-# 🎓 TOEFL Essential Vocabulary Dataset (AI-Enriched)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Format](https://img.shields.io/badge/Format-JSON%20%7C%20CSV%20%7C%20TXT-brightgreen)
-![Words](https://img.shields.io/badge/Words-1000-orange)
-
-A meticulously curated, AI-enriched dataset of 1,000 high-frequency academic words essential for the TOEFL iBT, IELTS, and advanced English comprehension.
-
-## 🌟 Why This Dataset?
-Most open-source vocabulary lists only provide a word and a simple definition. This dataset is engineered for deep linguistic understanding and NLP applications. Each entry includes:
-
-* **Academic Theme:** The specific field (e.g., Biology, Sociology, Geology) where the word frequently appears.
-* **Exact Synonyms:** Hand-picked synonyms curated specifically for academic reading comprehension.
-* **Contextual Example:** A high-quality, TOEFL-level sentence demonstrating real-world academic usage.
-* **Difficulty Level:** Rated from 3 (Intermediate) to 5 (Advanced).
-* **POS & Definitions:** Precise Part of Speech tagging and accurate English definitions.
-
-## 📂 File Formats Included
-* `toefl_essential_vocabulary.json`: Full structured data (Best for Web & Mobile Apps).
-* `toefl_essential_vocabulary.csv`: Tabular data (Best for Pandas, Data Science, and Kaggle).
-* `toefl_essential_vocabulary.txt`: Plain word list (Best for quick array imports).
-
-## 💻 Sample Data (JSON)
-```json
-{
-  "word": "proliferation",
-  "pos": "noun",
-  "difficulty": 5,
-  "theme": "Biology",
-  "synonyms": ["multiplication", "expansion"],
-  "definition_en": "Rapid increase in numbers.",
-  "example_sentence": "The proliferation of invasive plant species severely threatens the delicate balance of the local ecosystem."
-}
 🚀 Get the Full Version & Multilingual App
 This repository contains the core 1,000-word dataset.
 
