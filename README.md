@@ -26,9 +26,12 @@ Most open-source vocabulary lists only provide a word and a simple definition. T
   "difficulty": 5,
   "theme": "Biology",
   "synonyms": ["multiplication", "expansion"],
-  "definition_en": "Rapid increase in numbers.",
+ "definition_en": "Rapid increase in numbers.",
   "example_sentence": "The proliferation of invasive plant species severely threatens the delicate balance of the local ecosystem."
-}# toefl-essential-vocabulary-dataset
+}
+```
+
+# toefl-essential-vocabulary-dataset
 A meticulously curated, AI-enriched dataset of 1000 essential TOEFL words with academic context
 
 🚀 Get the Full Version & Multilingual App
